@@ -16,4 +16,8 @@ class Appointment
     @@all
   end
 
+  def new_appointment
+
+  end
+
 end
